@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InsectGlaive.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\InsectGlaive\InsectGlaiveDemo\InsectGlaive\Intermediate\Build\Win64\x64\InsectGlaiveEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal\InsectGlaive\InsectGlaiveDemo\InsectGlaive\Intermediate\Build\Win64\x64\UnrealEditor\Development\InsectGlaive\InsectGlaive.init.gen.cpp.obj"
+"D:\Unreal\InsectGlaive\InsectGlaiveDemo\InsectGlaive\Intermediate\Build\Win64\x64\UnrealEditor\Development\InsectGlaive\InsectGlaiveCharacter.gen.cpp.obj"
+"D:\Unreal\InsectGlaive\InsectGlaiveDemo\InsectGlaive\Intermediate\Build\Win64\x64\UnrealEditor\Development\InsectGlaive\InsectGlaiveGameMode.gen.cpp.obj"
+"D:\Unreal\InsectGlaive\InsectGlaiveDemo\InsectGlaive\Intermediate\Build\Win64\x64\UnrealEditor\Development\InsectGlaive\InsectGlaive.cpp.obj"
+"D:\Unreal\InsectGlaive\InsectGlaiveDemo\InsectGlaive\Intermediate\Build\Win64\x64\UnrealEditor\Development\InsectGlaive\InsectGlaiveCharacter.cpp.obj"
+"D:\Unreal\InsectGlaive\InsectGlaiveDemo\InsectGlaive\Intermediate\Build\Win64\x64\UnrealEditor\Development\InsectGlaive\InsectGlaiveGameMode.cpp.obj"
+"D:\Unreal\InsectGlaive\InsectGlaiveDemo\InsectGlaive\Intermediate\Build\Win64\x64\UnrealEditor\Development\InsectGlaive\Default.rc2.res"
+/OUT:"D:\Unreal\InsectGlaive\InsectGlaiveDemo\InsectGlaive\Intermediate\Build\Win64\x64\UnrealEditor\Development\InsectGlaive\UnrealEditor-InsectGlaive.lib"

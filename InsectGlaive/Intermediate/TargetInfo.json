@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InsectGlaive",
+			"Path": "..\\Source\\InsectGlaive.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InsectGlaiveEditor",
+			"Path": "..\\Source\\InsectGlaiveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

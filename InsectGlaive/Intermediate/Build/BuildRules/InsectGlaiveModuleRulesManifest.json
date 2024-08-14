@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\InsectGlaive\\InsectGlaiveDemo\\InsectGlaive\\Source\\InsectGlaive\\InsectGlaive.Build.cs",
+		"D:\\Unreal\\InsectGlaive\\InsectGlaiveDemo\\InsectGlaive\\Source\\InsectGlaive.Target.cs",
+		"D:\\Unreal\\InsectGlaive\\InsectGlaiveDemo\\InsectGlaive\\Source\\InsectGlaiveEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
