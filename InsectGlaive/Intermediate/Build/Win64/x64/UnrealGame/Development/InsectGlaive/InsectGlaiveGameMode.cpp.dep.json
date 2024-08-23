@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\source\\insectglaive\\insectglaivegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\intermediate\\build\\win64\\x64\\insectglaive\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\intermediate\\build\\win64\\x64\\unrealgame\\development\\insectglaive\\definitions.insectglaive.h",
+            "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\source\\insectglaive\\insectglaivegamemode.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\intermediate\\build\\win64\\unrealgame\\inc\\insectglaive\\uht\\insectglaivegamemode.generated.h",
+            "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\source\\insectglaive\\insectglaivecharacter.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\users\\17038\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\character.generated.h",
+            "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\intermediate\\build\\win64\\unrealgame\\inc\\insectglaive\\uht\\insectglaivecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

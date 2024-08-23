@@ -1,0 +1,1523 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "E20197010FF77C364D7E17889632CAEE7E20C4F5",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DD479C017B57F3A9EE9936D0968792947E29E6E4",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EDB1A401646406D95C286745B03F108113DED09C",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_LightTube"
+			]
+		},
+		{
+			"ShaderMapHash": "15EEC30156CE1508E53BD427D9DC3A4923BEA1C5",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_4"
+			]
+		},
+		{
+			"ShaderMapHash": "F19FC501F12F2F853FD686CC514293DB5C4FF179",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "AC3D6F02C84CB54DD9E96B35AA36F7AD9DA58254",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_6"
+			]
+		},
+		{
+			"ShaderMapHash": "4773A30208697651F3B690ACB7BDFE778192F86D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "83D5FA02316C30F968D4FE118F8653472CAC9D4B",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Shadow"
+			]
+		},
+		{
+			"ShaderMapHash": "1A1DAB036848119057B9B1F28DDFB89073B9A655",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/M_Ghost_Trail"
+			]
+		},
+		{
+			"ShaderMapHash": "AB9FAC06C56F24612F073589F409909A78C30BAA",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearDuct_2"
+			]
+		},
+		{
+			"ShaderMapHash": "7F8DE406B5ADD677E8630CFC4088A7518BB12EF0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "78F47407D9D24E2E6607843C2B0242B68931B4B4",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "806A8D0AA0E9AAE358FBAEC9E3011DA0C213886C",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "DC50F40AD3D3C808199C237076B8F6B9D9CD3CC8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorViewMode_GreenOnly"
+			]
+		},
+		{
+			"ShaderMapHash": "FC64450BAF9C68C7A00C18821C0EA35192FE92B9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "A2DAC60B4F9424021C17EFFFF49B4E812063C3C5",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "457D190C64A16428678E08369ECA3E1CD8B2D220",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1D0F790C8F6044DC9C5C60B02517BFC2C771A9A8",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "FCDA890DD9A6771DA1D19BE5877AB773C6586782",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "B1BCB40F94F31D3E27166BB0E1C636A6881681C9",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Lightning"
+			]
+		},
+		{
+			"ShaderMapHash": "78192510AC0ECC13771AA3A3CCE44D23A712E3FA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "60C9F91391086F0A3A510BCF72B2A56930E2F61F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC850016B154C27D349E379C935CBFE03E1C30B6",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_1"
+			]
+		},
+		{
+			"ShaderMapHash": "007B431647ADDF659263563CB20F7B370FC73090",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "4FD3DB16055C5F8E7B5A6469964036A23FC04A6A",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "66BC5519B007F74D5931711055A49A70730AD178",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2BBE281AD68D5437BE39F1880695F7E0EBFD0761",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_RingMesh"
+			]
+		},
+		{
+			"ShaderMapHash": "9CA9F51B3FE5F158809A32A3CACF38E7F9F955C0",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "56B8A11D1B446197ACFB386731ABEAA8D5277017",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5CC9D81F3CAB9D195B9A77F9A99ADAB6278CEB87",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_1",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_2",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_3",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_4",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_5",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_7"
+			]
+		},
+		{
+			"ShaderMapHash": "3CB22E20F2F64C5707CC2207B4870EDA29F8D701",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "7F0FF0203E470644F2EA20CBEE8F5D80B2462D4A",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "FFE2982279B45472F9857DDACA49F8E42C968E97",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "9908E5221653F103EF8F614ED2DB30ED532C8D61",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "E58C2B246740ECF6D4BA685FE3F0FCF04820D922",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "2B1B5424FFBE4188E791CE89370CBAFDF4E30C22",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_legs"
+			]
+		},
+		{
+			"ShaderMapHash": "DACFFF287D040982988628E26A3B173B214843B5",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "29C47A29E17EB8B9BB5C7A2BC76EA95701DDF10D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "CD6CDB292F6A53DD62AC3C912D0D1F1DD0A884BC",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "EBFFF22D4EC46C165B0429D0D115B6C6633B01F9",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "53811C2E6D0AF829EF17F0072CE49C12A6EA7474",
+			"Assets": [
+				"/Game/InsectGlaiveDemo/Niagara/KinsectFX"
+			]
+		},
+		{
+			"ShaderMapHash": "0254AA2EACF334B3CE2A4EA251162C1C1E588288",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/MIC_GreystoneFur"
+			]
+		},
+		{
+			"ShaderMapHash": "CDC4E930D7DC80E89287B722DEF17A369ACEFB42",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_head"
+			]
+		},
+		{
+			"ShaderMapHash": "5A1566320ECFCDA99BF1D7641AA1D4EF85AEACDF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "2D0300335BACBC2F1A7B913F15D5C8EEDB6B736A",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/MIC_GreystoneHair"
+			]
+		},
+		{
+			"ShaderMapHash": "388E1B33F65DB226062D6CA8751C5C0D8CC3DDC0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8D10B133A0F5D716AAF55391D56D9960A3E1045C",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "FD6BBD3559C72E297866B135559AC2C1757F82C0",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "4DC58D3726D082BD810B5B7A4498B803FE94B490",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorViewMode_RedOnly"
+			]
+		},
+		{
+			"ShaderMapHash": "07375439F8861ED85DA54C08A4AF38B69B5D1526",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_1",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_2",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_3",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_4",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_5",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_7"
+			]
+		},
+		{
+			"ShaderMapHash": "D7999939BC6BADBEE8D1D8B346D23193B8D178B6",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "FBA1153BAFA7EA9361782414ED56422AD91EF09F",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_head"
+			]
+		},
+		{
+			"ShaderMapHash": "06C8943DE140195975922B2065DAE31C95411454",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "79D6233E904AB54B6B0DD29554E0BF7BBD59DCDE",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "DC2FD73ECC3EAA4E8490D1B84BA1D965633D1583",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "58710E3FB2580A77C49A10DC396823347F61F697",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "25DE993F56A66B42D2E3FDFD77F04F093D1D32E7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "30F7664081E39D93B7B87F523411EE955D4D88CC",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45246840CA0E662B065215816766226CCED6F576",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/MIC_GreystoneFur"
+			]
+		},
+		{
+			"ShaderMapHash": "0A0FAD4084D6A9819F2F67C53CDA85DEB3E7D982",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Hair/Materials/M_HairSheet_Master2"
+			]
+		},
+		{
+			"ShaderMapHash": "0ED96E412E356F93DB924C66ED8705A6753508F5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "68C21D4461266B7FE70DE0EF467CFA4EC0EE0368",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "50979D44396CEAD2B024D38020F90CC78EF9670C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "104E3646B402736F05E45AA8258A0F3CF3D85799",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "363B3A478B7684EE41C283658341BBA743E7D697",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_8",
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_9"
+			]
+		},
+		{
+			"ShaderMapHash": "54511C484959F5298E8BA1E42E21D28970EC27C5",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/MIC_GreystoneHair"
+			]
+		},
+		{
+			"ShaderMapHash": "59FF4F491CF2DE1B86AF978D474157EBFF8FB757",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "7CC76F4A2B6A310D5A725E76182E05D651A31AC9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9544BC4AAD5A5F86FAC7DD323D4F7B07343401E0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "77F1874CF9FA982933D092E73BA0C40E7CE2D2B1",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "FC3B084E04F6D078B387CF4B165F2B614A32D88B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "AEF8EA5024C9C413A402AA275C2B5BCC9F900CFD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "AF15EE50B01D7D52B1266AFA7C5043F3D553AAB2",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2FFDBF51C90C4BDE689F8DECEFD5FD53C060D586",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "6EB7B2521532A380DFE53877FCD137D3DAF0FAE2",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_shield"
+			]
+		},
+		{
+			"ShaderMapHash": "23E08F53109B6AD352FCF4730F0824B708506F4B",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "93E6755866AAF37E846E6E5D65E6B2836A7E450A",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "2F327E5983CCA6E2435DC031DDA1701801595AB1",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "913DDE59DD48E8B2FD182E4DF324174D1A7B1378",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "36FE065AACAB5DCD4E6D647661B25E9C3D00301B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B3FA895B600D3ABA212CA16A496F549231565C98",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Ribbon"
+			]
+		},
+		{
+			"ShaderMapHash": "BC7BE95B4C8151B482A376FA39A8821A4993E568",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "A952D5625E1313E5A6A278EB7A12D0E729AB76D6",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "BAC2F66204CBDE0BC39CCE619EAA07193F62FB1F",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/M_Trail_Slash"
+			]
+		},
+		{
+			"ShaderMapHash": "5F84086634492F1840C0245B9BFB0B3A0C1B093E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4FA52C66C17FF0DD24740AC4C7BB56322537AE2A",
+			"Assets": [
+				"/Game/InsectGlaiveDemo/Niagara/KinsectFX"
+			]
+		},
+		{
+			"ShaderMapHash": "755E51666C51C4FE87A0D98420C0465DB18A37BE",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "1D1ECB67271148432077DB48705ECC2C2EB40B9E",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_Male_Body_9"
+			]
+		},
+		{
+			"ShaderMapHash": "3BFFDA6BAEFA41D8EFCBEA54077759D709C62378",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Hair/Materials/M_HairSheet_Master2"
+			]
+		},
+		{
+			"ShaderMapHash": "367EFE6D3B207AE7A266B47E7D1BF8EC0E8A3215",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
+				"/Game/MageStaff_EarthFireStrikes/Demo/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "7D684A6ED110B444246118F51A5D7B5903E42286",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "32CF716F28ECB113E0A7F3FD8A8D622D7B7B5019",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "519AE86FD26F032EE59E4A59183095CDE8982AE5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "241B367037F22EAD651926357C683536DEA1B8AE",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "B678D970924B42135AFE12DABA3312DF453FBBEF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "D41F2F716F96F6800C64F8B651C099501727189D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "3A0A4A71A6E47B7E0A86E607495E049B1E00B248",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/BlackUnlitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D9A3A871D9A264196B72639E4F641257F17AF059",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E3DF0A754654E4920E5CFFD2E464341D128BA3F1",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "CE694877A7A59F85CD6401335285E8243D5EE038",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "4B6AC6774188AF9D048FD3C6E4FFAD0B84D8B236",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "49897379A8B3E5086D934A33B552D8C6171598EB",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern"
+			]
+		},
+		{
+			"ShaderMapHash": "01AD477AD072E0237F8A92F4B9E5566415D11419",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/LV_Demo"
+			]
+		},
+		{
+			"ShaderMapHash": "2FBBD87A0D43C85F62C8F9E5C61BA09CD63012F4",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "7E02C27BD120FB48D6713DCEA8D8FAF65B768B52",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "465E59806727D8A0D3D53C40FE70BF605544E4D8",
+			"Assets": [
+				"/Game/Dodge_and_Evade_Anims/Demo/Floors_and_Walls/Materials/m_CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CAF040814343412F5F4405209ADA8CF9D5FACDC4",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_legs"
+			]
+		},
+		{
+			"ShaderMapHash": "E0C98B823EB766780297111F68155CD3BA0906C3",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "AD922983A56131F3373F40363E62807F6ABCF621",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern_NoText"
+			]
+		},
+		{
+			"ShaderMapHash": "2CCA5C8488301A2502A274C2E51BF7470A3FCBC8",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6182ED84E106ECAE444C5583037BAAFEBC9CC239",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "F35423868FA2E0B5BC309DCB9CE20AF87029BED6",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "04DB3986772B24A4FCBBE038FC5420DDCF822073",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_5"
+			]
+		},
+		{
+			"ShaderMapHash": "AA025586B5ECFEC10FB4999DA84F35EABF7D123D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F1A16B862593779ED7AD0B1D5E412704690F2713",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "B76F25870CB8F8FA52FF9885A0F83BCC4B90CEB8",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_arms"
+			]
+		},
+		{
+			"ShaderMapHash": "38875887486DBB9B1CD07B82DE0FE72B3F81A594",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "563585875C6ECA70B8E3F024D9531B67ACD0F5AE",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "42AAD1876CE4B74D4046723B53328CD3ED34A4C5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "554ADD8ABB3378FCC5DB8C10E72691CF62873D49",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "E26E2E8CFD77BD80FACCD8F0F6A9F12688BCC11A",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_RockHair"
+			]
+		},
+		{
+			"ShaderMapHash": "A1C7358F122AABC13189ED9B282277F695E4025B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "5FC8AD8FC56A42B12CD94DB3401BD5654D00AA8C",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "19836C914EC2E279DECF03577BE5CF104AC926F5",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "76CFE8919F25EC42D651D2833B499ED62BB5640C",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoRoomTiles"
+			]
+		},
+		{
+			"ShaderMapHash": "3042FF91656F44116D1CE6638EF18392DD7A7FDD",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "5FDD44929A0AD401F4845765B9E50B71291E6C8C",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "C5A87F92372947B6496CB6C0A303AB8357A0A7CA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2EEAE492527F3CAE6B12FA4FD356A70C01F777F5",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearDuct_2"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F95394C4920F2ACDC5BD5C400683B3D5D61FC2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "E2B0F0949788210AF37DD1575BA33BDD3BF72013",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "67C11F953D9630A78ECC8F149271DD151BEFF895",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "68331E96D3837A98A790F06CB8DD9ED6D1CEB6C6",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_4"
+			]
+		},
+		{
+			"ShaderMapHash": "E855D29693578B942C95423E914BADB1D625FD76",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "0683D49654597A794123AAA078F50EBB9545E1DC",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F5622697C900B29A5AEBF0A5CEA2CA00C9EDDF2B",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "416D5198DF2B93DFE1644BC32273E1CF21A9DD50",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "75A0BA98844FC8B1E5A1AA4B226E77CCC9CD01E8",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Trail_9"
+			]
+		},
+		{
+			"ShaderMapHash": "8703469B7631330C3745F1788345D8F66E8F9900",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "34C6959B7F5AA8A86DE99A360AE550AFD56FA415",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "6B51C79BD6447D8B1041137C3C5FEEFF2D7DBA80",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "D5EE989C34AD2E1C6A5F0D3BDD1E63BFAD32DB55",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AF80A89CB5BFED0236898C01D673B9F89FD73EC0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "005EC29F4F088F71AEE8157CE243391126455118",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "C31B0DA06D75EBA41C9AAD58872E667F08B1114C",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "9A48DAA127CD06165154930E0BC540D21A4247BE",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "544A15A363086EE94955452E2C74FE01FC881844",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "C19DDBA33C680366C31B82920641A0A7806DF1B4",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "451733A4EBA134DEB05912F8565C01308208B61B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "F26E26A5EE149311FD414B8E60565BD389D41483",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "45CF53A52DC7AEC30687878B3CBEE62720A6CD96",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "1E3CCEA623E8C852F4C74D71A310F8A2C7B711AC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "84340CAA9D6D07DC43D850A01165E8B8F8DA2EDE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "985986AB5C3261A32F751F81972F1B9248DF6E7B",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "735951AC33DAD206406F0083CCC680AC340E728B",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "E569EAACEF8D5F65D1260B36BF8C6CB64C1E329E",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Smoke_1"
+			]
+		},
+		{
+			"ShaderMapHash": "98286AADA449092D9B56A1EF59DBDE1E8D53A6E4",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6AFB15AE4FA6F71DE32D987DD10ABD8124CAAA18",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "DF33A7AE79D45B41B16B264B114A2D6949E58C9F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "858E33AF1AC2785F4667C86F17FF034266599901",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B885F4AF5868DC418FAE068B3823D9427E2F5488",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "EE633AB0481A0E60E37519CF99602F71C9427A3B",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "0C26D6B021E9CD8BDACFCBA08B2CFED368038726",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/M_Trail_Blur"
+			]
+		},
+		{
+			"ShaderMapHash": "ABADE7B01199CC0D6FD4EDD94BF2E983126BC5AC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "11B34DB17BEE8BDE1FFA2603C7618B25BA61D001",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "6ADB05B5B0B61C325F6F668A7CDF36347EFE80B9",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BA427BB59E7CA2D5FBE2FE92921151E9A8724C4E",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "217250B6B13934D6144197D69CFC370E236E5FFE",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3DD058B768A936F57F06019931B5B4639779610A",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B49483B7CAFDE9C6067F1935B55A92A4D95B460B",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_6"
+			]
+		},
+		{
+			"ShaderMapHash": "F445B1B79E598700707BA8B16E9FADED918F4BE8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B45402B8E017B52F5D2AC9702236056F59945A1B",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_Male_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "D62685B8C141DBEC0F9ABD697A8B3165AF3D0111",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWall"
+			]
+		},
+		{
+			"ShaderMapHash": "E3A301B9143EAECB3DA7165D0A450BFCBF239820",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B068CB9AE07E7A17B7485A351A58F553E2E9D4A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9B42C0B982E2C3C1506FC3A1C3C9964BE6C3AF6C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "34AAE8B9849FE0B6AA7FFE3B4C70A890912C810C",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "A9CD9CBAC8656C997FB89BADCB2AAE7AF302D1F9",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ADF1FBBAC4F5C2C4128660CE9377124624A71496",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "23F56EBC6A086BE6B5FF209B889FA3868BD0827C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "6E8A68BD06FC3F9AD981DECC19160D300AA87830",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "03EA8DBF7A801EA6BCF7C8BA4900AEBD8854D89D",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C3BC0EC2DBEEED531F6A7911B6DF1D75F6E21196",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "36FAD9C214D3E422DB584566B6079BF05C9D5B62",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_Glass",
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_Glass_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "108365C309BFE953280443E73BCD0680530F46F0",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "E4EA64C475D6846559FF606B2E97D13BC2E8307A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "2569FBC43221046EB506BB4CE372A9249DBF6DC0",
+			"Assets": [
+				"/Game/Dodge_and_Evade_Anims/Demo/Floors_and_Walls/Materials/m_Props"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E1D6C5CE4FB261CA6D3652317F75C15DA82E94",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "86ADEBC5A687A800611AFFAB8AEA0CC049C77A77",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "71A80AC650784B77B87AEBCCAAC656ECAAF31446",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "CCBA24C6A6B444EA6630690404F0AA0BE1F3B29B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FFCC69C6964BED022DF4B7CF4B2BB69D6B3A9A27",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "7358CEC6E63B2ACCEE98EA65DB46AAD9876893A8",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "25E594C7008041285E0DC0B59CEB33ED903BED84",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_6"
+			]
+		},
+		{
+			"ShaderMapHash": "6F269FC74B8070B68912FBBB42080BDBF42C43F8",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0EEDCC7C400D834356055F96E3D7FFAEB73E6B1",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "7D9809C8F343B77DA0088A5DC377725023097D97",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "5AE894C81CE59F11D34F5D6BAB47EC8E881EFF9A",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit"
+			]
+		},
+		{
+			"ShaderMapHash": "32451FCB74CDF994967BF8082D8FF634C2F248CC",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "CC02BFCFD3E283FE49193B40CFC62B67FD93D49A",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Ribbon1"
+			]
+		},
+		{
+			"ShaderMapHash": "3B4AA5D0B6690C5FB108B67CA0D7EEE7D1354621",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "30722DD1BE21A0C727B1A382BD7A7F72D6A0ADEF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "5D1ADDD1D059EDD09166DEBC53ED8C411FA00CB3",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "F31032D2064CA483061E90CF4F9FB9207BF558BB",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern_Inst_Mirrored"
+			]
+		},
+		{
+			"ShaderMapHash": "84EC33D2E907769B0C71CF60AF9A066CBA351D8C",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/M_Simple_Trail"
+			]
+		},
+		{
+			"ShaderMapHash": "09EEA5D22D013EF3BF6292213AA7A01362D79F28",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Ghost_Trail",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Blue",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Magic_Green"
+			]
+		},
+		{
+			"ShaderMapHash": "22CE5ED35CFCAB7C318601EEF8501729A950206C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "19E09CD498D839F570FD5617B9FF036A5F681916",
+			"Assets": [
+				"/Game/Dodge_and_Evade_Anims/Demo/Mannequin/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "E874C1D4F77C9537EC710FD4DA53B92BD741C044",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "3B8FAED5CC6559AACF56917E369AA345598C86FA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "6E5D28D6F620F608A2DF4D89D8DEFA20233ABB6D",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "D2C696D6615040C8A2C752F5D5904A174E27C38D",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "8F99A4D721601D3C82F52D2D7F9B5325F6C35CE2",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "D53842D8D662D85F2F962474A1A59193C16C9C0D",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Star"
+			]
+		},
+		{
+			"ShaderMapHash": "511A41D995A807D724437B1C77C4851EB9653420",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Glitch"
+			]
+		},
+		{
+			"ShaderMapHash": "A459BBD9572F384C73D2694BD6274CA15A8F09B6",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "968511DAFA2BEFB914FF277682B52ABA96F5F6B6",
+			"Assets": [
+				"/Game/Dodge_and_Evade_Anims/Demo/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "97B06ADA68A753F879677430CCA867D3C42604C1",
+			"Assets": [
+				"/Game/InsectGlaiveDemo/Niagara/AirDodge"
+			]
+		},
+		{
+			"ShaderMapHash": "BD09B1DA5F662C724166B7F59C7DC4BC8E42BD5F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "4719EBDADDCEF7EDAC70ABE155EF20CDFE329D58",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5FA107DBD3C682DA0C49699D1732B0351FEA22A3",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Simple_Trail_Blue",
+				"/Game/Sword_Trails_VFX/Materials/MI_Simple_Trail_Purple",
+				"/Game/Sword_Trails_VFX/Materials/MI_Simple_Trail_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "4ADDA7DBC8B0516123A337C3B48576880DD6C6D2",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_arms"
+			]
+		},
+		{
+			"ShaderMapHash": "7120FBDB98A64CD15CEF13BD66BE25687CBBB181",
+			"Assets": [
+				"/Game/NiagaraCharacterTrail/Materials/M_Butterfly"
+			]
+		},
+		{
+			"ShaderMapHash": "9DA7EADDD5A53CDCE727466676361D745E5E6D50",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F3ED41DEA3C3823D7CCF50D071B1FA323E638FA3",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "EA230CDF0F566125379FDD79B24ED876D58FB19C",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C8F0EBE168A73E589D727206843550C1D741B458",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B45D59E3C757CD6F6B91F765453DB6980AD14A37",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Characters/Mannequins/Materials/M_Mannequin",
+				"/Game/MageStaff_EarthFireStrikes/Demo/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/MageStaff_EarthFireStrikes/Demo/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "A39F0FE4944D3DD4B0A560C4D006D443CA46AB64",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "FF258BE6077BAC8B4630C3E308D107D1BB124C9D",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_1",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_2",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_3",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_4",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_5",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_7"
+			]
+		},
+		{
+			"ShaderMapHash": "448DE1E6E6FD475438FD70420AC1EAC5E56CD820",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "D18509E7AEA7DDC096280A8E1CF63487C09229BE",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "C4D42BE8EEF4C1BF956EB5C830AF5C7E5D4D7713",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "421945E806468F5FE5C7A0A372A0DC5E8E316CBE",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_shield"
+			]
+		},
+		{
+			"ShaderMapHash": "0AEB49EBD49B542B4C3CF7FDD1A4C41CCA4CCEDD",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "9DE9B4EEAC315D7A0685C2BE0F0B194A840DB485",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "D4EBA4F04B72E7967588300439B57F7E2F72C4A7",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "4A4EB2F2D38AF49073983C96ADAA69824CF5B648",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "A408F1F409E3B271B08C476239A2829D76AFB983",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "403551F5BBE300B538B30ACAA070492F45121578",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "193616F9DCBF7DCE41AF63ADEAB45AA32CE3748A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "56F2D0FA4E56AB6067877E21656037A2281363AA",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "1C7768FBA4884B06910105B03C44B053B7CB134F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6E82F7FBFCDC5E56FC6FED38F433FB012CED3808",
+			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/M_Master_Trail",
+				"/Game/Sword_Trails_VFX/Materials/MI_Master_Trails_Pixelized_Blue",
+				"/Game/Sword_Trails_VFX/Materials/MI_Master_Trails_Pixelized_Green",
+				"/Game/Sword_Trails_VFX/Materials/MI_Master_Trails_Pixelized_Red",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Electricity_1",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Electricity_2"
+			]
+		},
+		{
+			"ShaderMapHash": "E806DEFD1EEF3571B7CA9E3C4F784315DEC547A4",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "9EDA61FE204E9151D5A9C753CCA81DE4966BEBBC",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4CB36BFF97D652D60EED1A76EFC05D87C32F5874",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		}
+	]
+}
