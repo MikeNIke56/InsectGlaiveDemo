@@ -2,6 +2,12 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "0D5917012FD5C804A837735D4ED77B779DDC7B7F",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Drops_01"
+			]
+		},
+		{
 			"ShaderMapHash": "E20197010FF77C364D7E17889632CAEE7E20C4F5",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
@@ -16,7 +22,7 @@
 		{
 			"ShaderMapHash": "EDB1A401646406D95C286745B03F108113DED09C",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_LightTube"
+				"/Game/NiagaraSlash/Demo/Materials/M_LightTube"
 			]
 		},
 		{
@@ -56,6 +62,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5BA576053B99C2FCF90AB39D3FA68752D8CF2E09",
+			"Assets": [
+				"/Game/TornadoesVFXPack/MAP/Overview_MAP",
+				"/Game/TornadoesVFXPack/MAP/StylizedTornadoes_MAP",
+				"/Game/TornadoesVFXPack/MAP/TornadoesParameters_MAP",
+				"/Game/TornadoesVFXPack/MAP/VR_MAP"
+			]
+		},
+		{
 			"ShaderMapHash": "AB9FAC06C56F24612F073589F409909A78C30BAA",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearDuct_2"
@@ -71,6 +86,12 @@
 			"ShaderMapHash": "78F47407D9D24E2E6607843C2B0242B68931B4B4",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "47A7050829DBA18F56C6D89E2F5BDC0DA2D28A9D",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Electric_Tornado_01"
 			]
 		},
 		{
@@ -110,6 +131,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "569FCE0C7113F02DCC9B7D0C2BD1655A36340470",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
 			"ShaderMapHash": "FCDA890DD9A6771DA1D19BE5877AB773C6586782",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Glass"
@@ -128,9 +155,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A45999104DA5504C154CF7EFE569738042702B49",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
+			"ShaderMapHash": "549E4A12453C82CA4302612D9F8FE42982012738",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/M_GoodSky_Moon"
+			]
+		},
+		{
+			"ShaderMapHash": "7B786C13835E8536EAE954E79F120B4299530C6C",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Ref_1"
+			]
+		},
+		{
 			"ShaderMapHash": "60C9F91391086F0A3A510BCF72B2A56930E2F61F",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FD5E8F14FF76E88CB58D2BC8DF4D985E97ACD342",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
+			"ShaderMapHash": "6F07FF14CADD0B47D09A23833A3DEA4BA2742EE4",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
 			]
 		},
 		{
@@ -176,13 +233,20 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CA41D51DF85D4DEFAEB49B99FFC2983D07453F59",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_FuturisticTornado_02"
+			]
+		},
+		{
+			"ShaderMapHash": "8EDF981E72518DABAB94898C794DF01B407A9C4E",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
 			"ShaderMapHash": "5CC9D81F3CAB9D195B9A77F9A99ADAB6278CEB87",
 			"Assets": [
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_1",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_2",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_3",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_4",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_5",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_7"
 			]
 		},
@@ -193,9 +257,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4E3ED8209A45AA4A43A9B249A241FE06CB778BA8",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Fire_Tornado_Body"
+			]
+		},
+		{
 			"ShaderMapHash": "7F0FF0203E470644F2EA20CBEE8F5D80B2462D4A",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "F48EA021D77971A030E52E0C88438E56C14B8CEE",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_TransparencyTornado_Emissive"
 			]
 		},
 		{
@@ -211,6 +287,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "93C6C223672D4CE468E3249A38EFCAEBEB9B39B0",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Slash"
+			]
+		},
+		{
+			"ShaderMapHash": "E4860A24F264C6C6C1262E6A5EB9ACD93597A7D8",
+			"Assets": [
+				"/Game/TornadoesVFXPack/MAP/MAP_Materials/M_Grass"
+			]
+		},
+		{
 			"ShaderMapHash": "E58C2B246740ECF6D4BA685FE3F0FCF04820D922",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Ground_Moss"
@@ -223,9 +311,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "ABA77225B236262CE3C43846783ACD80E3027D02",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_MaskTornado"
+			]
+		},
+		{
+			"ShaderMapHash": "8FA73F28399529BF6CAD3F21C52BC444A5A3BF99",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_WaterSplash"
+			]
+		},
+		{
 			"ShaderMapHash": "DACFFF287D040982988628E26A3B173B214843B5",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "74E901296ACCD70599ACB8FD68C5D24C10A09333",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Line"
 			]
 		},
 		{
@@ -238,6 +344,12 @@
 			"ShaderMapHash": "CD6CDB292F6A53DD62AC3C912D0D1F1DD0A884BC",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "B60BEC2DE80E328EA1E073E488631E62F9EC16BF",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
 			]
 		},
 		{
@@ -259,15 +371,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F90DC82EC87DC18CD5AEC1F3C56C557BF00F3106",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Glow"
+			]
+		},
+		{
 			"ShaderMapHash": "CDC4E930D7DC80E89287B722DEF17A369ACEFB42",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_head"
 			]
 		},
 		{
+			"ShaderMapHash": "D55123321187BE15FE5DC28C791691BC70C8DAF7",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Particle_Emissive"
+			]
+		},
+		{
 			"ShaderMapHash": "5A1566320ECFCDA99BF1D7641AA1D4EF85AEACDF",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "A2B9FB32B7D5BF630CA2B11F8F98C2C9B507C50B",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Leaves"
 			]
 		},
 		{
@@ -289,9 +419,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3541D734BD2174869FCFAA0FBB915494C5E393EA",
+			"Assets": [
+				"/Game/Dragon8/Demo/Eye/Materials/M_Dragon1_Eye"
+			]
+		},
+		{
 			"ShaderMapHash": "FD6BBD3559C72E297866B135559AC2C1757F82C0",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "E06B14372661E4FC9B99ED600652376A33175C22",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Line_1"
 			]
 		},
 		{
@@ -301,13 +443,20 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F370C137991D2BE6B0CE0C62A17046560926BF7A",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
+			"ShaderMapHash": "46E149381F09A156BB09E010234907A36D012922",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
 			"ShaderMapHash": "07375439F8861ED85DA54C08A4AF38B69B5D1526",
 			"Assets": [
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_1",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_2",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_3",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_4",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_5",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_7"
 			]
 		},
@@ -318,9 +467,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "12C81E3A55FBE35C3B377522C783D06D97A88599",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
 			"ShaderMapHash": "FBA1153BAFA7EA9361782414ED56422AD91EF09F",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_head"
+			]
+		},
+		{
+			"ShaderMapHash": "A97EAC3B637BE70288C000CE92E4104D856300F3",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
 			]
 		},
 		{
@@ -336,6 +497,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D29CAF3EB36C09E6080126151EA05BBEB68611FB",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Mesh",
+				"/Game/TornadoesVFXPack/Materials/M_Rocks"
+			]
+		},
+		{
 			"ShaderMapHash": "DC2FD73ECC3EAA4E8490D1B84BA1D965633D1583",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
@@ -345,6 +513,12 @@
 			"ShaderMapHash": "58710E3FB2580A77C49A10DC396823347F61F697",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "41CC6E3FD0970AF5D33CD886E92A98F1ED88C962",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Shock"
 			]
 		},
 		{
@@ -372,6 +546,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "18D81D418861C8792C8FA99D9E92C18C83342DF3",
+			"Assets": [
+				"/Game/Dragon8/Materials/M_Dragon8"
+			]
+		},
+		{
 			"ShaderMapHash": "0ED96E412E356F93DB924C66ED8705A6753508F5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
@@ -390,6 +570,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "275888457666CDC94475A46044A14238F42A215E",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
 			"ShaderMapHash": "104E3646B402736F05E45AA8258A0F3CF3D85799",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
@@ -403,6 +589,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0CB0DD4792F588DF6CC6D6F5E2C53B489716FA6A",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
 			"ShaderMapHash": "54511C484959F5298E8BA1E42E21D28970EC27C5",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/MIC_GreystoneHair"
@@ -412,6 +604,12 @@
 			"ShaderMapHash": "59FF4F491CF2DE1B86AF978D474157EBFF8FB757",
 			"Assets": [
 				"/Engine/TemplateResources/M_Template_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "2CB750492B0D972B30067950362DE4412714D350",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/M_GoodSky_Base"
 			]
 		},
 		{
@@ -437,6 +635,18 @@
 			"ShaderMapHash": "FC3B084E04F6D078B387CF4B165F2B614A32D88B",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "EA909F4FFBC21DEDA007306E1D7902A21127A308",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Circles_Mat2"
+			]
+		},
+		{
+			"ShaderMapHash": "DB3AF14F4AD924BF446DB58204354B1221EE9404",
+			"Assets": [
+				"/Game/TornadoesVFXPack/DEMO/Character/Materials/MI_UE4Man_ChestLogo"
 			]
 		},
 		{
@@ -470,6 +680,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BF2A6E557C8DCDBC982A845AB35EBDA100756A4A",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Storm_2"
+			]
+		},
+		{
+			"ShaderMapHash": "226DF6552105406C3B3E0AAB61BD027DB68FF3A8",
+			"Assets": [
+				"/Game/TornadoesVFXPack/DEMO/Character/Materials/M_StMeshes"
+			]
+		},
+		{
 			"ShaderMapHash": "93E6755866AAF37E846E6E5D65E6B2836A7E450A",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
@@ -494,6 +716,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BDC3595A8A95700E46A0022C07B460F05FEDFBAF",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
 			"ShaderMapHash": "B3FA895B600D3ABA212CA16A496F549231565C98",
 			"Assets": [
 				"/Game/NiagaraCharacterTrail/Materials/M_Ribbon"
@@ -506,6 +734,30 @@
 			]
 		},
 		{
+			"ShaderMapHash": "696C996146C21D1D7D7E3CB29783F5520078F099",
+			"Assets": [
+				"/Game/TornadoesVFXPack/DEMO/Character/Materials/M_UE4Main_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "2410D061F078A5AF0389E70270CDB8A23176329F",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Slash_3"
+			]
+		},
+		{
+			"ShaderMapHash": "30C10362B93063DEDA13BC9047AF301B625672FF",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/M_GoodSky_Sun_Stars_Moon"
+			]
+		},
+		{
+			"ShaderMapHash": "283C5D62179C53C8D61898232DCC7ED16CDC4821",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Storm_11"
+			]
+		},
+		{
 			"ShaderMapHash": "A952D5625E1313E5A6A278EB7A12D0E729AB76D6",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Burst"
@@ -515,6 +767,12 @@
 			"ShaderMapHash": "BAC2F66204CBDE0BC39CCE619EAA07193F62FB1F",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Materials/M_Trail_Slash"
+			]
+		},
+		{
+			"ShaderMapHash": "5C43ED6454C0044C9EBACBC62DC24D941C547D91",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Drops_02"
 			]
 		},
 		{
@@ -536,15 +794,45 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B0B91667A9F348B59E0061E8368471528D63CC15",
+			"Assets": [
+				"/Game/Dragon8/Demo/Eye/Materials/M_Dragon1_Eye"
+			]
+		},
+		{
 			"ShaderMapHash": "1D1ECB67271148432077DB48705ECC2C2EB40B9E",
 			"Assets": [
 				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_Male_Body_9"
 			]
 		},
 		{
+			"ShaderMapHash": "CB7E6568142BA328734700F01551AB2DE7BAD4AD",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_FireTornado"
+			]
+		},
+		{
+			"ShaderMapHash": "C99F7069A0094B9A1C64B36FBFA78E6D6DC74C33",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_storm"
+			]
+		},
+		{
+			"ShaderMapHash": "FD44D26BF2D524156324802CA4942A08BDBAB74A",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Slash_2"
+			]
+		},
+		{
 			"ShaderMapHash": "3BFFDA6BAEFA41D8EFCBEA54077759D709C62378",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Hair/Materials/M_HairSheet_Master2"
+			]
+		},
+		{
+			"ShaderMapHash": "CB80456C293A1601908B39C427EA82167402376F",
+			"Assets": [
+				"/Game/InsectGlaiveDemo/BPs/DragonFight/FireEffect/Mat_Fire"
 			]
 		},
 		{
@@ -556,9 +844,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D4A4266EA8DC764E52DEA7E67CA8EE8878F9A342",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
 			"ShaderMapHash": "7D684A6ED110B444246118F51A5D7B5903E42286",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "0B99F86EEFBBFAC420168C5C9C920D81F6BABB76",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_FogNoDepth"
 			]
 		},
 		{
@@ -605,9 +905,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E5A11073E2C0495BA7B8452C8E56D5DC9CAFFABC",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Rock"
+			]
+		},
+		{
 			"ShaderMapHash": "E3DF0A754654E4920E5CFFD2E464341D128BA3F1",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "3B9CCC765C13B1E5F93E0D95E6918A07710ACB04",
+			"Assets": [
+				"/Game/GoodSky/Resource/ArrowTool/M_GoodSky_Sun_Emissive"
 			]
 		},
 		{
@@ -623,9 +935,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1ED14079BDE0591D689604185305A9D2E80DE454",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Water_Tornado_01"
+			]
+		},
+		{
 			"ShaderMapHash": "49897379A8B3E5086D934A33B552D8C6171598EB",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern"
+				"/Game/NiagaraSlash/Demo/Materials/M_DemoWallPattern"
+			]
+		},
+		{
+			"ShaderMapHash": "7C013B7A1B73BDE251C78CACBA16666AD060D842",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
 			]
 		},
 		{
@@ -641,9 +965,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "661E1E7B25B6D2A0CF3BA6D495B544A3457BB9E0",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_TransparencyTornado_Floor"
+			]
+		},
+		{
 			"ShaderMapHash": "7E02C27BD120FB48D6713DCEA8D8FAF65B768B52",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "B0B9807C3064F039D666817FAE593D8927B83CC1",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/M_GoodSky_Sun_Stars"
 			]
 		},
 		{
@@ -653,9 +989,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "81616A800D097084951895EF5B18A349C2DA8421",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
 			"ShaderMapHash": "CAF040814343412F5F4405209ADA8CF9D5FACDC4",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_legs"
+			]
+		},
+		{
+			"ShaderMapHash": "49B7ED813732AB19CBFD5F56609B823D02C1187D",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Semi_realisticWaterSplash"
 			]
 		},
 		{
@@ -667,7 +1015,7 @@
 		{
 			"ShaderMapHash": "AD922983A56131F3373F40363E62807F6ABCF621",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern_NoText"
+				"/Game/NiagaraSlash/Demo/Materials/M_DemoWallPattern_NoText"
 			]
 		},
 		{
@@ -731,6 +1079,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1D647C8813EA9E357AA4FDC226B64AB8E5B855C5",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_TransparencyTornado"
+			]
+		},
+		{
+			"ShaderMapHash": "71E01B8A04450606DED24111EAEA17149CD778F5",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
+			"ShaderMapHash": "CF938D8A8A5CFE8F2B1D9DF8AD766A0616768B94",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
 			"ShaderMapHash": "554ADD8ABB3378FCC5DB8C10E72691CF62873D49",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
@@ -738,9 +1104,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AD41048B7DDEA3B6D51D5E3FFF452BE23EABDC6B",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
+			"ShaderMapHash": "9DFB138CC0953FF713865185B37C296B203037CD",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Splash"
+			]
+		},
+		{
 			"ShaderMapHash": "E26E2E8CFD77BD80FACCD8F0F6A9F12688BCC11A",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_RockHair"
+			]
+		},
+		{
+			"ShaderMapHash": "F8377A8CC7DC0AA9CAEA0419D881842A6788E3EB",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
 			]
 		},
 		{
@@ -756,6 +1140,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CB22D38F82BE11DADED38236848F307C01367E4C",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction"
+			]
+		},
+		{
+			"ShaderMapHash": "96439590BB80B34259FC01554D4AD26C25E891E7",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
+			"ShaderMapHash": "1945F390ABEE25F1423C952892F9C557C9774760",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Tornado_Body_02"
+			]
+		},
+		{
 			"ShaderMapHash": "19836C914EC2E279DECF03577BE5CF104AC926F5",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
@@ -764,7 +1166,7 @@
 		{
 			"ShaderMapHash": "76CFE8919F25EC42D651D2833B499ED62BB5640C",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoRoomTiles"
+				"/Game/NiagaraSlash/Demo/Materials/M_DemoRoomTiles"
 			]
 		},
 		{
@@ -810,9 +1212,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DF9EBD95412385985CA0CDF2F6E467529A5A849B",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
 			"ShaderMapHash": "68331E96D3837A98A790F06CB8DD9ED6D1CEB6C6",
 			"Assets": [
 				"/Game/NiagaraCharacterTrail/Niagara/P_Trail_4"
+			]
+		},
+		{
+			"ShaderMapHash": "F694CB96E2C8378DAF517235AF6760E752BEEDB1",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Ref"
 			]
 		},
 		{
@@ -831,6 +1245,18 @@
 			"ShaderMapHash": "F5622697C900B29A5AEBF0A5CEA2CA00C9EDDF2B",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "CB730298B789D70662D9A9D97474F01C4E0B27CC",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Sprite"
+			]
+		},
+		{
+			"ShaderMapHash": "F32D3198FBC8A83DDC0A8985795BBE000AAE09C6",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_ShockWave"
 			]
 		},
 		{
@@ -888,6 +1314,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7990E1A05D572F3A1C53306153C5CB3A6C85E0FB",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Storm_5"
+			]
+		},
+		{
 			"ShaderMapHash": "9A48DAA127CD06165154930E0BC540D21A4247BE",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
@@ -912,6 +1344,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "684105A527C49510EEEA75FBDA3554C329B4BC75",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
 			"ShaderMapHash": "F26E26A5EE149311FD414B8E60565BD389D41483",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
@@ -924,10 +1362,34 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5EB3E4A5639A7D2052691910F7B2934C63CA595F",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
+			"ShaderMapHash": "99FBA0A6A46E11A837D68D93CBB7CDDE3D80B0EF",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Edge"
+			]
+		},
+		{
 			"ShaderMapHash": "1E3CCEA623E8C852F4C74D71A310F8A2C7B711AC",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7DBF81A8D06FA5DE1BBAB84A1AFDE40B38F4F34C",
+			"Assets": [
+				"/Game/Dragon8/Materials/MI_Dragon8_Inst4"
+			]
+		},
+		{
+			"ShaderMapHash": "8F26F1A94B046CD963BC402703612FBA228B15DF",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Storm_22"
 			]
 		},
 		{
@@ -937,9 +1399,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CA8629AA9DCEF3F1D2BDF82615C789C382531363",
+			"Assets": [
+				"/Game/Dragon8/Demo/Eye/Materials/MI_Dragon1_Eye_inst_2"
+			]
+		},
+		{
+			"ShaderMapHash": "4CBD7EAAE6C1F43BA5A2B74AB6A81398F67955E4",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Tornado_Body_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7B0AA4AAD1869F894DFA74EA89253954CF7FEAE8",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
 			"ShaderMapHash": "985986AB5C3261A32F751F81972F1B9248DF6E7B",
 			"Assets": [
 				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "CEC3CEABE0F08A955DB694B51A874CC552F11C89",
+			"Assets": [
+				"/Game/Dragon8/Demo/Eye/Materials/MI_Dragon1_Eye_inst_2"
 			]
 		},
 		{
@@ -949,9 +1435,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8832AEAC4C555BF5DE780B082D96FC2E7B5F6278",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
 			"ShaderMapHash": "E569EAACEF8D5F65D1260B36BF8C6CB64C1E329E",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/Materials/M_Smoke_1"
+				"/Game/NiagaraCharacterTrail/Materials/M_Smoke_1",
+				"/Game/NiagaraSlash/Materials/M_Smoke_1"
 			]
 		},
 		{
@@ -979,6 +1472,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A2936BAF426F895BD6CDDE1C15B89B58762E79EB",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_MaskTornadov2"
+			]
+		},
+		{
 			"ShaderMapHash": "B885F4AF5868DC418FAE068B3823D9427E2F5488",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
@@ -988,6 +1487,12 @@
 			"ShaderMapHash": "EE633AB0481A0E60E37519CF99602F71C9427A3B",
 			"Assets": [
 				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "2F2970B09ADA2FF132A1C51B25C9E80EF4A09FEF",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Sprite"
 			]
 		},
 		{
@@ -1009,6 +1514,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "12857FB4DF42E84F1CC07894481B26EAC135AA05",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_SimpleMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "6ADB05B5B0B61C325F6F668A7CDF36347EFE80B9",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
@@ -1021,9 +1532,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6D23A8B5122DC1A9FA816568503986BBEA441A3C",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
 			"ShaderMapHash": "217250B6B13934D6144197D69CFC370E236E5FFE",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8DA763B6E698372426A187DD562FB14F2E045B0A",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
 			]
 		},
 		{
@@ -1053,7 +1576,8 @@
 		{
 			"ShaderMapHash": "D62685B8C141DBEC0F9ABD697A8B3165AF3D0111",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWall"
+				"/Game/Dragon8/Demo/Floor/Materials/M_Floor",
+				"/Game/NiagaraSlash/Demo/Materials/M_DemoWall"
 			]
 		},
 		{
@@ -1066,6 +1590,12 @@
 			"ShaderMapHash": "7B068CB9AE07E7A17B7485A351A58F553E2E9D4A",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9540A6B935641A8FBC0A309AEE392C017477D478",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Trail"
 			]
 		},
 		{
@@ -1099,9 +1629,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "04CEE2BC62C774787A5224CC269EF5A08A3C5878",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Flare"
+			]
+		},
+		{
 			"ShaderMapHash": "6E8A68BD06FC3F9AD981DECC19160D300AA87830",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "3F0F15BF17FA53D327D68D9D9E5462FEE79393FE",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Mesh_Elec"
 			]
 		},
 		{
@@ -1111,16 +1653,35 @@
 			]
 		},
 		{
+			"ShaderMapHash": "53F2D9BF483E4411E66F8ECD2A0E2C901276F6B6",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Futuristic_Tornado_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BCE7E1C18EFE392A3A722B123D683E163AD74890",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Spark"
+			]
+		},
+		{
 			"ShaderMapHash": "C3BC0EC2DBEEED531F6A7911B6DF1D75F6E21196",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
 		},
 		{
+			"ShaderMapHash": "5A5565C29417C956C620B8809B96DD607CEABCF1",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Bloody_Tornado_01"
+			]
+		},
+		{
 			"ShaderMapHash": "36FAD9C214D3E422DB584566B6079BF05C9D5B62",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_Glass",
-				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_Glass_Inst"
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_Glass_Inst",
+				"/Game/NiagaraSlash/Demo/Materials/M_Glass",
+				"/Game/NiagaraSlash/Demo/Materials/M_Glass_Inst"
 			]
 		},
 		{
@@ -1197,6 +1758,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E96005C835D075E6C9BEAA1E775554DF6073407B",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
 			"ShaderMapHash": "7D9809C8F343B77DA0088A5DC377725023097D97",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
@@ -1205,7 +1772,13 @@
 		{
 			"ShaderMapHash": "5AE894C81CE59F11D34F5D6BAB47EC8E881EFF9A",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit"
+				"/Game/NiagaraSlash/Demo/Materials/DefaultTextMaterialTranslucentUnlit"
+			]
+		},
+		{
+			"ShaderMapHash": "3EE3E3C9EFFB9CD1EA1DF9FD77F91BC07D69C535",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
 			]
 		},
 		{
@@ -1215,9 +1788,34 @@
 			]
 		},
 		{
+			"ShaderMapHash": "519690CE73675A4296ACE89A10BD0A606F0781CA",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_decal_01",
+				"/Game/TornadoesVFXPack/Materials/M_decal_02"
+			]
+		},
+		{
+			"ShaderMapHash": "BF0029CFF278698032563C14F2A98732447E9B5C",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_ElectricTornado_Body"
+			]
+		},
+		{
 			"ShaderMapHash": "CC02BFCFD3E283FE49193B40CFC62B67FD93D49A",
 			"Assets": [
 				"/Game/NiagaraCharacterTrail/Materials/M_Ribbon1"
+			]
+		},
+		{
+			"ShaderMapHash": "D1C7CDCFB0960042CEB0EC40997556F1BE1B3690",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
+			]
+		},
+		{
+			"ShaderMapHash": "4A4B12D0B17FA8B4D7A97BBDF143C87EE4810DE9",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
 			]
 		},
 		{
@@ -1241,7 +1839,7 @@
 		{
 			"ShaderMapHash": "F31032D2064CA483061E90CF4F9FB9207BF558BB",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern_Inst_Mirrored"
+				"/Game/NiagaraSlash/Demo/Materials/M_DemoWallPattern_Inst_Mirrored"
 			]
 		},
 		{
@@ -1253,7 +1851,6 @@
 		{
 			"ShaderMapHash": "09EEA5D22D013EF3BF6292213AA7A01362D79F28",
 			"Assets": [
-				"/Game/Sword_Trails_VFX/Materials/MI_Ghost_Trail",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Blue",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Magic_Green"
 			]
@@ -1286,6 +1883,18 @@
 			"ShaderMapHash": "6E5D28D6F620F608A2DF4D89D8DEFA20233ABB6D",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "3EDA41D603F6210A0CE975D17D8E8F25A7B8E0B9",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Storm_4"
+			]
+		},
+		{
+			"ShaderMapHash": "E34892D6FE66B3129A46B86FF93137050CF0ABEA",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Fog"
 			]
 		},
 		{
@@ -1345,8 +1954,6 @@
 		{
 			"ShaderMapHash": "5FA107DBD3C682DA0C49699D1732B0351FEA22A3",
 			"Assets": [
-				"/Game/Sword_Trails_VFX/Materials/MI_Simple_Trail_Blue",
-				"/Game/Sword_Trails_VFX/Materials/MI_Simple_Trail_Purple",
 				"/Game/Sword_Trails_VFX/Materials/MI_Simple_Trail_Red"
 			]
 		},
@@ -1360,6 +1967,12 @@
 			"ShaderMapHash": "7120FBDB98A64CD15CEF13BD66BE25687CBBB181",
 			"Assets": [
 				"/Game/NiagaraCharacterTrail/Materials/M_Butterfly"
+			]
+		},
+		{
+			"ShaderMapHash": "011B8ADD20879E953661E76162593B0F1E76F90F",
+			"Assets": [
+				"/Game/GoodSky/Resource/ArrowTool/M_GoodSky_SkyRing_"
 			]
 		},
 		{
@@ -1387,6 +2000,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E6DCA4E295C9CBCE0CD6B3ECB9C186DC6AF8D6C8",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_demon"
+			]
+		},
+		{
 			"ShaderMapHash": "B45D59E3C757CD6F6B91F765453DB6980AD14A37",
 			"Assets": [
 				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
@@ -1402,13 +2021,20 @@
 			]
 		},
 		{
+			"ShaderMapHash": "81504BE466CE5B68FA634EF95DED36998ACCF6D0",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
+			]
+		},
+		{
+			"ShaderMapHash": "19DA0AE693306204171EB4FB7EC2CAF57C225F84",
+			"Assets": [
+				"/Engine/ArtTools/RenderToTexture/Materials/M_RadiusDebugTranslucent"
+			]
+		},
+		{
 			"ShaderMapHash": "FF258BE6077BAC8B4630C3E308D107D1BB124C9D",
 			"Assets": [
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_1",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_2",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_3",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_4",
-				"/Game/Sword_Trails_VFX/Materials/MI_Trail_5",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_7"
 			]
 		},
@@ -1437,9 +2063,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "421043EBCC07F0D7E936F4FC428352F51770713D",
+			"Assets": [
+				"/Game/TornadoesVFXPack/MAP/MAP_Materials/M_CubeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "0AEB49EBD49B542B4C3CF7FDD1A4C41CCA4CCEDD",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "73A5F3EB959801A33F311DB7D90D8DBF75224422",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Crack_1"
+			]
+		},
+		{
+			"ShaderMapHash": "9A2442EE9DEF2A334878089D6026D3AD9E8D5936",
+			"Assets": [
+				"/Game/TornadoesVFXPack/MAP/MAP_Materials/M_Tiles_Opaque"
 			]
 		},
 		{
@@ -1452,6 +2096,18 @@
 			"ShaderMapHash": "D4EBA4F04B72E7967588300439B57F7E2F72C4A7",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "9547E2F16FF759A800A9439431E5E75DA8E4B024",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/M_GoodSky_Storm"
+			]
+		},
+		{
+			"ShaderMapHash": "2CB84EF226B5BD1BFB06654BF246A4FE54D8BB46",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_circles"
 			]
 		},
 		{
@@ -1473,6 +2129,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3FDD11F72D4C37AD469F8C25418C2480A1E757E5",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Storm_1"
+			]
+		},
+		{
+			"ShaderMapHash": "FE941BF84ABED06085EC55607F5CA7BE6FF9F954",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_TransparencyTornado_Floor_Emissive"
+			]
+		},
+		{
 			"ShaderMapHash": "193616F9DCBF7DCE41AF63ADEAB45AA32CE3748A",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
@@ -1491,12 +2159,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F4E1ACFB7C44F2D877B4AAAB713F55F6D92D2FD2",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Light_Tornado_01"
+			]
+		},
+		{
 			"ShaderMapHash": "6E82F7FBFCDC5E56FC6FED38F433FB012CED3808",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Materials/M_Master_Trail",
-				"/Game/Sword_Trails_VFX/Materials/MI_Master_Trails_Pixelized_Blue",
-				"/Game/Sword_Trails_VFX/Materials/MI_Master_Trails_Pixelized_Green",
-				"/Game/Sword_Trails_VFX/Materials/MI_Master_Trails_Pixelized_Red",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Electricity_1",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Electricity_2"
 			]
@@ -1508,15 +2179,51 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F5DAE3FDD9C53F8D0A1339ADBF333EC6DD76D66E",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_StylizedFog"
+			]
+		},
+		{
 			"ShaderMapHash": "9EDA61FE204E9151D5A9C753CCA81DE4966BEBBC",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
+			"ShaderMapHash": "F144A4FE89BFE0083BE3C5AA129FB278B64FCF45",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
 			"ShaderMapHash": "4CB36BFF97D652D60EED1A76EFC05D87C32F5874",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "A0FF6EFFA853C02286D48378C79F5C10AA667421",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/MI_Storm_3"
+			]
+		},
+		{
+			"ShaderMapHash": "4B097CFF5CE805F993440097BA58F4D023B85066",
+			"Assets": [
+				"/Game/TornadoesVFXPack/Materials/M_Tornado_EmissiveWater"
+			]
+		},
+		{
+			"ShaderMapHash": "5F88E6FF8115955EB1BF57EC5541B8D5E9AD1B56",
+			"Assets": [
+				"/Game/NiagaraSlash/Materials/M_Crack_2"
+			]
+		},
+		{
+			"ShaderMapHash": "BFF7EBFF5301327D5E06739288A7514C31674174",
+			"Assets": [
+				"/Game/NiagaraSlash/Niagara/NS_Slash_9"
 			]
 		}
 	]
