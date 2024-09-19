@@ -14,6 +14,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8F9C98010B960745BF96C101A0DBB79A22B977FA",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DistanceField/M_UE4Man_ChestLogo"
+			]
+		},
+		{
 			"ShaderMapHash": "DD479C017B57F3A9EE9936D0968792947E29E6E4",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigGizmoMaterial"
@@ -22,6 +28,8 @@
 		{
 			"ShaderMapHash": "EDB1A401646406D95C286745B03F108113DED09C",
 			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_LightTube",
+				"/Game/NiagaraDissolveEffect/DemoRoom/Materials/M_LightTube",
 				"/Game/NiagaraSlash/Demo/Materials/M_LightTube"
 			]
 		},
@@ -44,15 +52,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "52869502D84D539C38D0A342BAFA140D66DB032E",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Morph/M_Morph_Niagara"
+			]
+		},
+		{
 			"ShaderMapHash": "4773A30208697651F3B690ACB7BDFE778192F86D",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
 			]
 		},
 		{
+			"ShaderMapHash": "BB7BB00237F1986893C2B597050AE705B17B3FA5",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Materials/M_Mask"
+			]
+		},
+		{
 			"ShaderMapHash": "83D5FA02316C30F968D4FE118F8653472CAC9D4B",
 			"Assets": [
 				"/Game/NiagaraCharacterTrail/Materials/M_Shadow"
+			]
+		},
+		{
+			"ShaderMapHash": "781E2503D9C78F2D40C0719BFDDA4DCD96CE537C",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_RandomNoise/M_TableRound_Niagara"
 			]
 		},
 		{
@@ -71,6 +97,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CA4DDC05237B76CE3CE80AEBEEA5BFBF1D1750CE",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_DirectionGradientDissolve_SK_Infinite"
+			]
+		},
+		{
 			"ShaderMapHash": "AB9FAC06C56F24612F073589F409909A78C30BAA",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_TearDuct_2"
@@ -86,6 +118,12 @@
 			"ShaderMapHash": "78F47407D9D24E2E6607843C2B0242B68931B4B4",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6F7288073A1514EEBB206AD84FBCDDA5B9006D7A",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
 			]
 		},
 		{
@@ -137,6 +175,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2A70D20C5CCF4FAA8D617D072719DE5FBDF99D5E",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Materials/M_DistanceFieldDissolveExample"
+			]
+		},
+		{
 			"ShaderMapHash": "FCDA890DD9A6771DA1D19BE5877AB773C6586782",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Glass"
@@ -182,6 +226,12 @@
 			"ShaderMapHash": "FD5E8F14FF76E88CB58D2BC8DF4D985E97ACD342",
 			"Assets": [
 				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
+			"ShaderMapHash": "170EE1140273023F9FEF71CD2F8D5DA0CB5B891F",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_DirectionGradient/M_Chair_Niagara"
 			]
 		},
 		{
@@ -247,6 +297,11 @@
 		{
 			"ShaderMapHash": "5CC9D81F3CAB9D195B9A77F9A99ADAB6278CEB87",
 			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_1",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_2",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_3",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_4",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_5",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_7"
 			]
 		},
@@ -347,6 +402,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FA00242B99B6330F47CF5EC71E934FF5224E8F6D",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DirectionGradient/M_UE4Man_ChestLogo"
+			]
+		},
+		{
 			"ShaderMapHash": "B60BEC2DE80E328EA1E073E488631E62F9EC16BF",
 			"Assets": [
 				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
@@ -374,6 +435,12 @@
 			"ShaderMapHash": "F90DC82EC87DC18CD5AEC1F3C56C557BF00F3106",
 			"Assets": [
 				"/Game/NiagaraSlash/Materials/M_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "D6F2FD2E85486F7C314B92719808AB12CDC0813D",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_Morph_SM_New"
 			]
 		},
 		{
@@ -437,6 +504,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3D8A3B3796C013F085B3F0FC92B80B41E9B4B89D",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Morph/M_TableRound"
+			]
+		},
+		{
 			"ShaderMapHash": "4DC58D3726D082BD810B5B7A4498B803FE94B490",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/VertexColorViewMode_RedOnly"
@@ -457,6 +530,11 @@
 		{
 			"ShaderMapHash": "07375439F8861ED85DA54C08A4AF38B69B5D1526",
 			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_1",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_2",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_3",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_4",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_5",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_7"
 			]
 		},
@@ -470,6 +548,12 @@
 			"ShaderMapHash": "12C81E3A55FBE35C3B377522C783D06D97A88599",
 			"Assets": [
 				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
+			]
+		},
+		{
+			"ShaderMapHash": "1974483A566E8DA9ECAA679051BBFCE8F60DD630",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_DistanceField/M_Chair"
 			]
 		},
 		{
@@ -516,6 +600,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2008203FA0B9A944012E60F7BF53C19DA8BB900C",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "41CC6E3FD0970AF5D33CD886E92A98F1ED88C962",
 			"Assets": [
 				"/Game/NiagaraSlash/Materials/M_Shock"
@@ -555,6 +645,24 @@
 			"ShaderMapHash": "0ED96E412E356F93DB924C66ED8705A6753508F5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "EDECEB4246314F27C2A25B98FB789F6B29904440",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_DirectionGradient/M_TableRound_Niagara"
+			]
+		},
+		{
+			"ShaderMapHash": "5A323B43820B5FFDF629919FBB18E2325B7EC8C2",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_Morph_SK_New"
+			]
+		},
+		{
+			"ShaderMapHash": "34254043F7C841BC1962935EC2AF4C2E9FF101EC",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Materials/M_DirectionGradientDissolveExample"
 			]
 		},
 		{
@@ -610,6 +718,12 @@
 			"ShaderMapHash": "2CB750492B0D972B30067950362DE4412714D350",
 			"Assets": [
 				"/Game/GoodSky/Resource/Materials/M_GoodSky_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "4511CB49165189DAA81C3BB623E5FBF99B2E4B3F",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_Morph_SM"
 			]
 		},
 		{
@@ -676,7 +790,8 @@
 		{
 			"ShaderMapHash": "23E08F53109B6AD352FCF4730F0824B708506F4B",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_UE4Man_ChestLogo"
+				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_UE4Man_ChestLogo",
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/M_UE4Man_ChestLogo_Base"
 			]
 		},
 		{
@@ -734,6 +849,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1EB87C5EE5683F9A0924F778B2951870421370AC",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DirectionGradient/M_UE4Man_ChestLogo1"
+			]
+		},
+		{
 			"ShaderMapHash": "696C996146C21D1D7D7E3CB29783F5520078F099",
 			"Assets": [
 				"/Game/TornadoesVFXPack/DEMO/Character/Materials/M_UE4Main_Body"
@@ -764,15 +885,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E853F262F72D8E7CC6E0EF12F4F17F00962B021E",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_DistanceFieldDissolve_SK_I"
+			]
+		},
+		{
 			"ShaderMapHash": "BAC2F66204CBDE0BC39CCE619EAA07193F62FB1F",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Materials/M_Trail_Slash"
 			]
 		},
 		{
+			"ShaderMapHash": "CD4701637D1972954E43C724EE36630E84071115",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_DirectionGradientDissolve_SM_Infinite"
+			]
+		},
+		{
 			"ShaderMapHash": "5C43ED6454C0044C9EBACBC62DC24D941C547D91",
 			"Assets": [
 				"/Game/TornadoesVFXPack/Materials/M_Drops_02"
+			]
+		},
+		{
+			"ShaderMapHash": "4B24B365DC097E186053D42913FDAD5B686A13A6",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_DirectionGradientDissolve_SM"
 			]
 		},
 		{
@@ -791,6 +930,12 @@
 			"ShaderMapHash": "755E51666C51C4FE87A0D98420C0465DB18A37BE",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "5CC88166042F67819BF10AFEF663F198D10D22B4",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DistanceField/M_Male_Body"
 			]
 		},
 		{
@@ -911,6 +1056,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "EAD8E57328256490EB125702C55CA291AFF85582",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_DistanceFieldDissolve_SK"
+			]
+		},
+		{
 			"ShaderMapHash": "E3DF0A754654E4920E5CFFD2E464341D128BA3F1",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_TableRound"
@@ -943,6 +1094,8 @@
 		{
 			"ShaderMapHash": "49897379A8B3E5086D934A33B552D8C6171598EB",
 			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern",
+				"/Game/NiagaraDissolveEffect/DemoRoom/Materials/M_DemoWallPattern",
 				"/Game/NiagaraSlash/Demo/Materials/M_DemoWallPattern"
 			]
 		},
@@ -983,6 +1136,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6F403A7E8F4AF19D0638695022618F49C840D2F3",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/M_Chair_Base"
+			]
+		},
+		{
 			"ShaderMapHash": "465E59806727D8A0D3D53C40FE70BF605544E4D8",
 			"Assets": [
 				"/Game/Dodge_and_Evade_Anims/Demo/Floors_and_Walls/Materials/m_CubeMaterial"
@@ -1015,6 +1174,8 @@
 		{
 			"ShaderMapHash": "AD922983A56131F3373F40363E62807F6ABCF621",
 			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern_NoText",
+				"/Game/NiagaraDissolveEffect/DemoRoom/Materials/M_DemoWallPattern_NoText",
 				"/Game/NiagaraSlash/Demo/Materials/M_DemoWallPattern_NoText"
 			]
 		},
@@ -1028,6 +1189,12 @@
 			"ShaderMapHash": "6182ED84E106ECAE444C5583037BAAFEBC9CC239",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "B326EF84D224941DC8E78D3DDE1C0CEE467C3982",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Morph/MI_Morph_Niagara"
 			]
 		},
 		{
@@ -1052,6 +1219,12 @@
 			"ShaderMapHash": "F1A16B862593779ED7AD0B1D5E412704690F2713",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "291D82860B5E0665CA61D289582084B01F6EE511",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DirectionGradient/M_UE4Man_ChestLogo2"
 			]
 		},
 		{
@@ -1122,6 +1295,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A2EF348C6DA31BBFA0283D32FAE550E20F232FCB",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_RandomNoise/M_Chair_Niagara"
+			]
+		},
+		{
 			"ShaderMapHash": "F8377A8CC7DC0AA9CAEA0419D881842A6788E3EB",
 			"Assets": [
 				"/Game/NiagaraSlash/Niagara/NS_Slash_5"
@@ -1166,6 +1345,8 @@
 		{
 			"ShaderMapHash": "76CFE8919F25EC42D651D2833B499ED62BB5640C",
 			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoRoomTiles",
+				"/Game/NiagaraDissolveEffect/DemoRoom/Materials/M_DemoRoomTiles",
 				"/Game/NiagaraSlash/Demo/Materials/M_DemoRoomTiles"
 			]
 		},
@@ -1248,6 +1429,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F859299776874D1326E4BE98D767D948DC711CEE",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_DirectionGradientDissolve_SK"
+			]
+		},
+		{
 			"ShaderMapHash": "CB730298B789D70662D9A9D97474F01C4E0B27CC",
 			"Assets": [
 				"/Game/TornadoesVFXPack/Materials/M_Sprite"
@@ -1320,6 +1507,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "876A16A1282667BE25F90C1F4F0F80A5BA31E86B",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_RandomNoise/M_Male_Body",
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Morph/M_Male_Body"
+			]
+		},
+		{
 			"ShaderMapHash": "9A48DAA127CD06165154930E0BC540D21A4247BE",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
@@ -1383,6 +1577,8 @@
 		{
 			"ShaderMapHash": "7DBF81A8D06FA5DE1BBAB84A1AFDE40B38F4F34C",
 			"Assets": [
+				"/Game/Dragon8/Materials/MI_Dragon8_Inst2",
+				"/Game/Dragon8/Materials/MI_Dragon8_Inst3",
 				"/Game/Dragon8/Materials/MI_Dragon8_Inst4"
 			]
 		},
@@ -1401,6 +1597,7 @@
 		{
 			"ShaderMapHash": "CA8629AA9DCEF3F1D2BDF82615C789C382531363",
 			"Assets": [
+				"/Game/Dragon8/Demo/Eye/Materials/MI_Dragon1_Eye_inst_1",
 				"/Game/Dragon8/Demo/Eye/Materials/MI_Dragon1_Eye_inst_2"
 			]
 		},
@@ -1425,6 +1622,7 @@
 		{
 			"ShaderMapHash": "CEC3CEABE0F08A955DB694B51A874CC552F11C89",
 			"Assets": [
+				"/Game/Dragon8/Demo/Eye/Materials/MI_Dragon1_Eye_inst_1",
 				"/Game/Dragon8/Demo/Eye/Materials/MI_Dragon1_Eye_inst_2"
 			]
 		},
@@ -1526,6 +1724,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6B2139B5E4EAC98FA401C12AED4D8AAF7019DA1C",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_DirectionGradient/M_TableRound"
+			]
+		},
+		{
 			"ShaderMapHash": "BA427BB59E7CA2D5FBE2FE92921151E9A8724C4E",
 			"Assets": [
 				"/Interchange/gltf/M_Unlit"
@@ -1570,13 +1774,16 @@
 		{
 			"ShaderMapHash": "B45402B8E017B52F5D2AC9702236056F59945A1B",
 			"Assets": [
-				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_Male_Body"
+				"/Game/NiagaraCharacterTrail/DemoRoom/SkeletalMeshExample/Character/Materials/M_Male_Body",
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/M_Male_Body_Base"
 			]
 		},
 		{
 			"ShaderMapHash": "D62685B8C141DBEC0F9ABD697A8B3165AF3D0111",
 			"Assets": [
 				"/Game/Dragon8/Demo/Floor/Materials/M_Floor",
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWall",
+				"/Game/NiagaraDissolveEffect/DemoRoom/Materials/M_DemoWall",
 				"/Game/NiagaraSlash/Demo/Materials/M_DemoWall"
 			]
 		},
@@ -1584,6 +1791,18 @@
 			"ShaderMapHash": "E3A301B9143EAECB3DA7165D0A450BFCBF239820",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "019712B9CA5B970E977E9D779CFAC92E77C1FC95",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DirectionGradient/MI_Male_Body2"
+			]
+		},
+		{
+			"ShaderMapHash": "93B985B9F487726250A4EE369DF83C60482EAB2B",
+			"Assets": [
+				"/Game/InsectGlaiveDemo/bloodsplatter_Mat"
 			]
 		},
 		{
@@ -1620,6 +1839,12 @@
 			"ShaderMapHash": "ADF1FBBAC4F5C2C4128660CE9377124624A71496",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "9E09BDBBC5E883062F21951AFB758A1C0DC078F3",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Morph/M_UE4Man_ChestLogo1"
 			]
 		},
 		{
@@ -1679,7 +1904,10 @@
 		{
 			"ShaderMapHash": "36FAD9C214D3E422DB584566B6079BF05C9D5B62",
 			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_Glass",
 				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_Glass_Inst",
+				"/Game/NiagaraDissolveEffect/DemoRoom/Materials/M_Glass",
+				"/Game/NiagaraDissolveEffect/DemoRoom/Materials/M_Glass_Inst",
 				"/Game/NiagaraSlash/Demo/Materials/M_Glass",
 				"/Game/NiagaraSlash/Demo/Materials/M_Glass_Inst"
 			]
@@ -1689,6 +1917,12 @@
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
 				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "648819C4DD6CFD5E9AC2E902C9ACE7F4A0D20899",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_RandomNoiseDissolve_SK"
 			]
 		},
 		{
@@ -1746,12 +1980,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6F269FC74B8070B68912FBBB42080BDBF42C43F8",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "C0EEDCC7C400D834356055F96E3D7FFAEB73E6B1",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
@@ -1772,6 +2000,8 @@
 		{
 			"ShaderMapHash": "5AE894C81CE59F11D34F5D6BAB47EC8E881EFF9A",
 			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit",
+				"/Game/NiagaraDissolveEffect/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit",
 				"/Game/NiagaraSlash/Demo/Materials/DefaultTextMaterialTranslucentUnlit"
 			]
 		},
@@ -1788,6 +2018,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3D4281CDE35FFF098F05C77505369A5C6AC53DE9",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/M_TableRound_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "6E131FCEE03F5499DA8AD2E2EDF734D8DD605D4F",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Morph/MI_Male_Body_Niagara"
+			]
+		},
+		{
 			"ShaderMapHash": "519690CE73675A4296ACE89A10BD0A606F0781CA",
 			"Assets": [
 				"/Game/TornadoesVFXPack/Materials/M_decal_01",
@@ -1797,7 +2039,8 @@
 		{
 			"ShaderMapHash": "BF0029CFF278698032563C14F2A98732447E9B5C",
 			"Assets": [
-				"/Game/TornadoesVFXPack/Materials/M_ElectricTornado_Body"
+				"/Game/TornadoesVFXPack/Materials/M_ElectricTornado_Body",
+				"/Game/TornadoesVFXPack/Materials/MI_Earth_Tornado_01"
 			]
 		},
 		{
@@ -1837,8 +2080,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "ED8D18D2F3DCDB08AA816311FB0564A4A4ECC2A5",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_RandomNoise/M_TableRound"
+			]
+		},
+		{
 			"ShaderMapHash": "F31032D2064CA483061E90CF4F9FB9207BF558BB",
 			"Assets": [
+				"/Game/NiagaraCharacterTrail/DemoRoom/Materials/M_DemoWallPattern_Inst_Mirrored",
+				"/Game/NiagaraDissolveEffect/DemoRoom/Materials/M_DemoWallPattern_Inst_Mirrored",
 				"/Game/NiagaraSlash/Demo/Materials/M_DemoWallPattern_Inst_Mirrored"
 			]
 		},
@@ -1849,8 +2100,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C8E35AD25D2E24ABFFED5DC80BFCDF6B2434B491",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_RandomNoise/M_Chair",
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Morph/M_Chair"
+			]
+		},
+		{
 			"ShaderMapHash": "09EEA5D22D013EF3BF6292213AA7A01362D79F28",
 			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Ghost_Trail",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Blue",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Magic_Green"
 			]
@@ -1859,6 +2118,12 @@
 			"ShaderMapHash": "22CE5ED35CFCAB7C318601EEF8501729A950206C",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "162297D4A28A717634675411C86647639091A720",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_RandomNoise/M_Male_Body_Niagara"
 			]
 		},
 		{
@@ -1877,6 +2142,12 @@
 			"ShaderMapHash": "3B8FAED5CC6559AACF56917E369AA345598C86FA",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "26ABD8D5AA823D81363EC3011ECD8DFCFCC43674",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_DirectionGradient/MI_Chair1"
 			]
 		},
 		{
@@ -1922,6 +2193,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AEA3B3D9B8C5074700C09BFE3001EF46983073B2",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_DistanceFieldDissolve_SM"
+			]
+		},
+		{
 			"ShaderMapHash": "A459BBD9572F384C73D2694BD6274CA15A8F09B6",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
@@ -1954,6 +2231,8 @@
 		{
 			"ShaderMapHash": "5FA107DBD3C682DA0C49699D1732B0351FEA22A3",
 			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Simple_Trail_Blue",
+				"/Game/Sword_Trails_VFX/Materials/MI_Simple_Trail_Purple",
 				"/Game/Sword_Trails_VFX/Materials/MI_Simple_Trail_Red"
 			]
 		},
@@ -1964,9 +2243,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "79A7CEDB2444BD344895CBE3526FEE495571295B",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_DistanceField/M_TableRound"
+			]
+		},
+		{
 			"ShaderMapHash": "7120FBDB98A64CD15CEF13BD66BE25687CBBB181",
 			"Assets": [
 				"/Game/NiagaraCharacterTrail/Materials/M_Butterfly"
+			]
+		},
+		{
+			"ShaderMapHash": "64FB2DDDC6389079CC2C34FAE4B4A08FE02633AF",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_RandomNoiseDissolve_SM"
 			]
 		},
 		{
@@ -1991,6 +2282,12 @@
 			"ShaderMapHash": "EA230CDF0F566125379FDD79B24ED876D58FB19C",
 			"Assets": [
 				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0B7977DFE6DF74014433C8B8BA614653EB1CAF1C",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Morph/M_Female_Body"
 			]
 		},
 		{
@@ -2021,9 +2318,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "81504BE466CE5B68FA634EF95DED36998ACCF6D0",
+			"ShaderMapHash": "657ECBE4B0C9ED57088FD28BC35998C688432CD6",
 			"Assets": [
-				"/Engine/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody"
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_DirectionGradient/M_Chair",
+				"/Game/NiagaraDissolveEffect/DemoRoom/StaticMeshExample/Materials/Dissolve_DirectionGradient/MI_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "EA5445E5F0092C83945301BFD87527B704CDD6AE",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DirectionGradient/M_Male_Body_Niagara"
 			]
 		},
 		{
@@ -2035,6 +2339,11 @@
 		{
 			"ShaderMapHash": "FF258BE6077BAC8B4630C3E308D107D1BB124C9D",
 			"Assets": [
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_1",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_2",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_3",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_4",
+				"/Game/Sword_Trails_VFX/Materials/MI_Trail_5",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_7"
 			]
 		},
@@ -2042,6 +2351,12 @@
 			"ShaderMapHash": "448DE1E6E6FD475438FD70420AC1EAC5E56CD820",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "668AFEE61279FD7893E51BBF1F25F8C9F50BD739",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_DistanceFieldDissolve_SM_Infinite"
 			]
 		},
 		{
@@ -2099,6 +2414,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "ED2AC9F0A8B8B619746A5D3E35E77011D8DD1B80",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Materials/M_RandomNoiseDissolveExample"
+			]
+		},
+		{
 			"ShaderMapHash": "9547E2F16FF759A800A9439431E5E75DA8E4B024",
 			"Assets": [
 				"/Game/GoodSky/Resource/Materials/M_GoodSky_Storm"
@@ -2114,6 +2435,24 @@
 			"ShaderMapHash": "4A4EB2F2D38AF49073983C96ADAA69824CF5B648",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Level/Demo/ParagonGreystone/Characters/Heroes/Greystone/Materials/M_Greystone_Flesh_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "E2E902F34457237CC6804A5A9642C3E7EAEF593A",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_Morph_SK"
+			]
+		},
+		{
+			"ShaderMapHash": "55CE16F3BA7D61A5EE39C36A7BE424FB2C0394EC",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/Niagara/P_DistanceFieldDissolve_SK_Infinite"
+			]
+		},
+		{
+			"ShaderMapHash": "285586F40CA8A443C05CFBAD088CE2E80B2B49C5",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DirectionGradient/MI_Male_Body1"
 			]
 		},
 		{
@@ -2141,9 +2480,23 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AA8D0DF9047055082B7B253647CCF65991AC2594",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_RandomNoise/M_UE4Man_ChestLogo",
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Morph/M_UE4Man_ChestLogo"
+			]
+		},
+		{
 			"ShaderMapHash": "193616F9DCBF7DCE41AF63ADEAB45AA32CE3748A",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "835C6FF9D6341F628827E3F3B3C7F5040011ACEB",
+			"Assets": [
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DirectionGradient/M_Male_Body",
+				"/Game/NiagaraDissolveEffect/DemoRoom/SkeletalMeshExample/Character/Materials/Dissolve_DirectionGradient/MI_Male_Body"
 			]
 		},
 		{
@@ -2168,6 +2521,9 @@
 			"ShaderMapHash": "6E82F7FBFCDC5E56FC6FED38F433FB012CED3808",
 			"Assets": [
 				"/Game/Sword_Trails_VFX/Materials/M_Master_Trail",
+				"/Game/Sword_Trails_VFX/Materials/MI_Master_Trails_Pixelized_Blue",
+				"/Game/Sword_Trails_VFX/Materials/MI_Master_Trails_Pixelized_Green",
+				"/Game/Sword_Trails_VFX/Materials/MI_Master_Trails_Pixelized_Red",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Electricity_1",
 				"/Game/Sword_Trails_VFX/Materials/MI_Trail_Electricity_2"
 			]
