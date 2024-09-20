@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\intermediate\\build\\win64\\unrealgame\\inc\\insectglaive\\uht\\insectglaive.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\intermediate\\build\\win64\\x64\\insectglaive\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\insectglaive\\insectglaivedemo\\insectglaive\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\insectglaive\\definitions.insectglaive.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
