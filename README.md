@@ -8,3 +8,6 @@ Controls:
  	Recall Kinsect: Right Mouse Press
 	Wirebug: Q
  	Pause: Tab
+
+
+Boss Music: Dragonlord Placidusax- Elden Ring
